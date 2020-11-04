@@ -1,0 +1,17 @@
+C:\Users\yello\source\repos\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.deps.json
+C:\Users\yello\source\repos\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.dll
+C:\Users\yello\source\repos\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.pdb
+C:\Users\yello\source\repos\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.AssemblyInfoInputs.cache
+C:\Users\yello\source\repos\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.AssemblyInfo.cs
+C:\Users\yello\source\repos\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.dll
+C:\Users\yello\source\repos\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.pdb
+C:\Users\yello\source\repos\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.csprojAssemblyReference.cache
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.deps.json
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.dll
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\bin\Debug\netcoreapp3.0\HomeWorksLibrary.pdb
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.csprojAssemblyReference.cache
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.AssemblyInfoInputs.cache
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.AssemblyInfo.cs
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.dll
+C:\Users\yello\source\repos\LibraryAndTestsHomework\HomeWorksLibrary\obj\Debug\netcoreapp3.0\HomeWorksLibrary.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0BhKFLYSuIQ+SkTspATfY75delakkpw/zQ6soTateyAqQypUNn5woX5hc6SQMuApjIddYVRwcb++fe0yT4+bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yello\\source\\repos\\LibraryAndTestsHomework\\HomeWorksLibrary\\HomeWorksLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yello\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yello\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yello\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
